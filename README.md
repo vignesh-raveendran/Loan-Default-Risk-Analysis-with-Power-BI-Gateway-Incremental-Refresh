@@ -1,10 +1,11 @@
 # 🚀 Loan Default Analysis & Financial Risk Dashboard
 
-Welcome to the **Loan Default Analysis** project! This is an end-to-end **Power BI** analytics solution for analyzing loan risk, default trends, and applicant demographics across a large financial portfolio.
+Welcome to the **Loan Default Analysis** project! This is an end-to-end **Power BI** analytics solution for analyzing loan risk, default trends, and applicant demographics across a large financial portfolio.  
+
+![ETL](https://img.shields.io/badge/ETL-4CAF50?style=flat-square) ![Data Gateway](https://img.shields.io/badge/Gateway-FFAA00?style=flat-square) ![Visualization](https://img.shields.io/badge/Visualization-00BCD4?style=flat-square) ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Power BI](https://img.shields.io/badge/PowerBI-0078D7?style=flat-square&logo=power-bi&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-FF4F00?style=flat-square&logo=microsoft-power-bi&logoColor=white) ![Incremental Refresh](https://img.shields.io/badge/Incremental_Refresh-009688?style=flat-square) ![Dataflow](https://img.shields.io/badge/Dataflow-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 <img width="1303" height="755" alt="Screenshot 2026-02-16 132246" src="https://github.com/user-attachments/assets/2ecca0ed-e1c1-41ca-900f-d45712b7302a" />
 <img width="1292" height="757" alt="Screenshot 2026-02-16 165244" src="https://github.com/user-attachments/assets/2d52a1fa-2357-4714-85c0-d7e8db5cd513" />
-
 <img width="1411" height="823" alt="Screenshot 2026-02-16 162850" src="https://github.com/user-attachments/assets/0875042e-35eb-4319-88a9-92b963b2464e" />
 
 ---
@@ -102,11 +103,6 @@ SWITCH(
 
 ## 🛠️ Technical Skills & Tools
 
-![Power BI Badge](https://img.shields.io/badge/PowerBI-0078D7?style=flat-square&logo=power-bi&logoColor=white)  
-![DAX Badge](https://img.shields.io/badge/DAX-FF4F00?style=flat-square&logo=microsoft-power-bi&logoColor=white)  
-![ETL Badge](https://img.shields.io/badge/ETL-4CAF50?style=flat-square)  
-![Data Gateway Badge](https://img.shields.io/badge/Gateway-FFAA00?style=flat-square)  
-![Visualization Badge](https://img.shields.io/badge/Visualization-00BCD4?style=flat-square)  
 
 **Demonstrated Skills:**  
 * Data Connectivity & ETL (Power BI Gateway, Dataflows)  
@@ -119,8 +115,6 @@ SWITCH(
 
 ## 🔄 Project Flow & Architecture
 
-![Pipeline](https://media.giphy.com/media/3o7TKO1qzEBQnO4H3O/giphy.gif)  
-*Animated Data Pipeline Illustration*
 
 1. **Data Ingestion & Profiling** – Load raw financial and demographic data  
 2. **Data Transformation** – Clean, format, and create custom columns  
