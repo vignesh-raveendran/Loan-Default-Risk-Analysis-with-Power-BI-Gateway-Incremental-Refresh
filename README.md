@@ -3,6 +3,8 @@
 Welcome to the **Loan Default Analysis** project! This is an end-to-end **Power BI** analytics solution for analyzing loan risk, default trends, and applicant demographics across a large financial portfolio.
 
 <img width="1303" height="755" alt="Screenshot 2026-02-16 132246" src="https://github.com/user-attachments/assets/2ecca0ed-e1c1-41ca-900f-d45712b7302a" />
+<img width="1292" height="757" alt="Screenshot 2026-02-16 165244" src="https://github.com/user-attachments/assets/2d52a1fa-2357-4714-85c0-d7e8db5cd513" />
+
 <img width="1411" height="823" alt="Screenshot 2026-02-16 162850" src="https://github.com/user-attachments/assets/0875042e-35eb-4319-88a9-92b963b2464e" />
 
 ---
