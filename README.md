@@ -130,22 +130,7 @@ SWITCH(
 * **Gateway Management:** Learned secure cloud-to-local data connectivity and troubleshooting.  
 * **Stakeholder-Focused Design:** Separate dashboards for Marketing vs Risk Officers ensures relevant insights.  
 * **Business Impact:** Enabled data-driven decisions for loan approval strategy and risk mitigation.
-
----
-
----
-
-## 🎬 Demo & GIFs
-
-*Dashboard Overview:*  
-![Dashboard Overview](https://media.giphy.com/media/3o7TKP8pB8s8bkF3Fq/giphy.gif)  
-
-*Default Rate Trend:*  
-![Trend GIF](https://media.giphy.com/media/xT0GqF8eb9Zw9aMwH6/giphy.gif)  
-
-*Decomposition Tree Insight:*  
-![Decomposition GIF](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)  
-
+ 
 ---
 
 ## 📈 Conclusion
@@ -153,6 +138,7 @@ SWITCH(
 This project is a complete demonstration of **Power BI expertise**, **data-driven decision making**, and **financial risk analysis** at scale. It is production-ready, recruiter-friendly, and highlights **end-to-end analytics capabilities** from data ingestion to automated reporting.
 
 ---
+
 
 
 
