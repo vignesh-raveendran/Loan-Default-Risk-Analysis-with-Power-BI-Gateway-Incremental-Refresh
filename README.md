@@ -139,6 +139,12 @@ This project is a complete demonstration of **Power BI expertise**, **data-drive
 
 ---
 
+## ✍️ Author
+
+**Vignesh Raveendran**  
+*Data Engineer / Data Analyst*  
+
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
 
 
 
